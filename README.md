@@ -2,6 +2,9 @@
 
 A Swift package introducing separate `AbsoluteFilePath` and `RelativeFilePath` based on `FilePath` from [Swift System](https://github.com/apple/swift-system).
 
+- [Documentation](https://swiftpackageindex.com/Formkunft/swift-scoped-file-path/documentation/scopedfilepath)
+- [Swift Package Index](https://swiftpackageindex.com/Formkunft/swift-scoped-file-path)
+
 ## Using Swift Scoped File Path in your project
 
 Add `swift-scoped-file-path` as a dependency to your package:
