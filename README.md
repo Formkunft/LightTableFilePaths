@@ -13,7 +13,7 @@ Add `swift-scoped-file-path` as a dependency to your package:
 let package = Package(
     // ...
     dependencies: [
-        .package(url: "https://github.com/Formkunft/swift-scoped-file-path", .upToNextMajor(from: "0.2.0")),
+        .package(url: "https://github.com/Formkunft/swift-scoped-file-path.git", .upToNextMajor(from: "0.2.0")),
     ],
     targets: [
         .target(
